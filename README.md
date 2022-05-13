@@ -1,7 +1,13 @@
 # cocodatasetwebexp
 
 Coco dataset explorer project.
-just run the app and enjoy.
+
+this project is for android platform.
+just downloade the code, run the app and enjoy.
+
+
+
+
 
 
 
