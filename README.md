@@ -1,6 +1,7 @@
 # cocodatasetwebexp
 
-A new Flutter project.
+Coco dataset explorer project.
+just run the app and enjoy.
 
 ## Getting Started
 
